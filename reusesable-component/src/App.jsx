@@ -1,12 +1,14 @@
 
 import Nav from './nav.jsx'
+import MainContent from './mainContaint.jsx'
 import './App.css'
 
 function App() {
 
   return (
     <>
-      <Nav>hello</Nav> 
+      <Nav />
+      <MainContent />
     </>
   )
 }
