@@ -1,6 +1,6 @@
 
 import Nav from './nav.jsx'
-import MainContent from './mainContaint.jsx'
+import MainContent from './mainContent.jsx'
 import './App.css'
 
 function App() {
